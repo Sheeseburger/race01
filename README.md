@@ -1,30 +1,19 @@
 # Campus
 
 ## Welcome to Race01
->This is the first project of [Innovation Campus](https://www.kpi.kharkov.ua/rus/2021/01/21/innovation-campus-ntu-hpi-pervyj-etap/). It is a special course in our University.
-> Project was created by @Sheeseburger and @annabellehere
-## Explaining the project 
->In this race we need to create simple 3d models in terminal window:
+>This is the Second project of [Innovation Campus](https://www.kpi.kharkov.ua/rus/2021/01/21/innovation-campus-ntu-hpi-pervyj-etap/). It is a special course in our University.
 
-| Cube | Pyramid |
-| :---: | :---: | 
-| <img src ="https://i.imgur.com/Ph6TdNO.png"> | <img src ="https://i.imgur.com/TROR27y.png"> |
+## Explaining the project 
+>In this race we need to solve math expression:
+
+| Cube |
+| :---: |
+| <img src ="https://i.imgur.com/NoeWh1F.png"> |
 
 
 ### Math details:
-#### Cube:
-- number of **"|"**  in one vertical line equals to **n**
-- number of **"-"**  in one horizontal line equals to **(2 * n)**
-- number of **"/"**  in one diagonal line equals to **(n / 2)**
-- **(n > 1)**
-
-#### Pyramid: 
-- the number of **"/ "** in line that relates to the front triangle, equals to **n**
-- the number of **"\"**  in line that relates to the front and side triangles, equals to **(n - 1)**
-- the number of **"\"**  in line that relates only to the side triangle, equals to **(n / 2)**
-- he number of **"|"**  in vertical line equals to **(n / 2)**
-- he number of_  in horizontal line equals to **(2 * n - 3)**
-- **(n > 1)** n is **even**
+> Operands is more or equal to 0.
+> We have to work with + - * / 
 
 ## Task managment
 > We decided to work 50/50.I took pyramid and Anna cube.
